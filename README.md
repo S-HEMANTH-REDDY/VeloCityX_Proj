@@ -35,10 +35,10 @@ To run the analysis, you need to have Python installed along with the following 
 - scikit-learn
 
 Usage
-Clone this repository to your local machine:
-Open Jupyter Notebook or any Python IDE.
-Run the analysis code provided in VeloCityX_Analysis.ipynb.
-Review the visualizations and insights generated from the data analysis.
+1. Clone this repository to your local machine.
+2. Open Jupyter Notebook or any Python IDE.
+3. Run the analysis code provided in VeloCityX_Analysis.ipynb.
+4. Review the visualizations and insights generated from the data analysis.
 
 Insights and Recommendations
 The analysis provides insights into user engagement patterns, correlations between different metrics, and user segmentation based on their behavior in the VeloCityX app. Key recommendations include:
