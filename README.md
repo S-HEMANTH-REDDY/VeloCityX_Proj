@@ -40,7 +40,7 @@ Usage
 3. Run the analysis code provided in VeloCityX_Analysis.ipynb.
 4. Review the visualizations and insights generated from the data analysis.
 
-Insights and Recommendations
+Insights and Recommendations:      
 The analysis provides insights into user engagement patterns, correlations between different metrics, and user segmentation based on their behavior in the VeloCityX app. Key recommendations include:
 Personalizing fan challenges based on user segments.
 Implementing gamification for predictive accuracy to encourage more Live 360 usage.
